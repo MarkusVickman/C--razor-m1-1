@@ -1152,23 +1152,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\logo.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\moment1-1.b7pzyycl26.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\moment1-1.5leepyzywk.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>moment1-1</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/moment1-1</BasePath>
-      <RelativePath>moment1-1.b7pzyycl26.bundle.scp.css</RelativePath>
+      <RelativePath>moment1-1.5leepyzywk.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>b7pzyycl26</Fingerprint>
-      <Integrity>V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM=</Integrity>
+      <Fingerprint>5leepyzywk</Fingerprint>
+      <Integrity>p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\moment1-1.b7pzyycl26.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\moment1-1.5leepyzywk.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

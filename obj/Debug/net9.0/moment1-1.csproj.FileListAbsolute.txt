@@ -93,6 +93,6 @@ C:\Users\marku\Desktop\webbutveckling-ht2024\dotnet_kurs\moment1-1\obj\Debug\net
 C:\Users\marku\Desktop\webbutveckling-ht2024\dotnet_kurs\moment1-1\obj\Debug\net9.0\ref\moment1-1.dll
 C:\Users\marku\Desktop\webbutveckling-ht2024\dotnet_kurs\moment1-1\obj\Debug\net9.0\compressed\78ups4s0in-z9nf6q7a8e.gz
 C:\Users\marku\Desktop\webbutveckling-ht2024\dotnet_kurs\moment1-1\obj\Debug\net9.0\compressed\e9upndg7zu-3f7e33pnwv.gz
-C:\Users\marku\Desktop\webbutveckling-ht2024\dotnet_kurs\moment1-1\obj\Debug\net9.0\scopedcss\Pages\About.cshtml.rz.scp.css
-C:\Users\marku\Desktop\webbutveckling-ht2024\dotnet_kurs\moment1-1\obj\Debug\net9.0\compressed\wp0xomaggf-b7pzyycl26.gz
-C:\Users\marku\Desktop\webbutveckling-ht2024\dotnet_kurs\moment1-1\obj\Debug\net9.0\compressed\6jl1qd6rtc-b7pzyycl26.gz
+C:\Users\marku\Desktop\webbutveckling-ht2024\dotnet_kurs\moment1-1\obj\Debug\net9.0\moment1-1.sourcelink.json
+C:\Users\marku\Desktop\webbutveckling-ht2024\dotnet_kurs\moment1-1\obj\Debug\net9.0\compressed\wp0xomaggf-5leepyzywk.gz
+C:\Users\marku\Desktop\webbutveckling-ht2024\dotnet_kurs\moment1-1\obj\Debug\net9.0\compressed\6jl1qd6rtc-5leepyzywk.gz

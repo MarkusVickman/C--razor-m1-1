@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ruL+CbFPqFPQFThuPhXSIElbc1j6395n0dLDfYGJuD4=",
+  "Hash": "8NdNri5jjto4DURaxjqxL8Nm8XfTRUqHQz28TdYnnDs=",
   "Source": "moment1-1",
   "BasePath": "_content/moment1-1",
   "Mode": "Default",
@@ -143,12 +143,12 @@
       "OriginalItemSpec": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\6jl1qd6rtc-b7pzyycl26.gz",
+      "Identity": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\6jl1qd6rtc-5leepyzywk.gz",
       "SourceId": "moment1-1",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/moment1-1",
-      "RelativePath": "moment1-1#[.{fingerprint=b7pzyycl26}]!.bundle.scp.css.gz",
+      "RelativePath": "moment1-1#[.{fingerprint=5leepyzywk}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -157,8 +157,8 @@
       "RelatedAsset": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\moment1-1.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "oihmdxiq0j",
-      "Integrity": "MPPpw72PTYdXW3rxRwnhSnTcXXnyfUuYC07ZNz9yHWs=",
+      "Fingerprint": "froij4amtu",
+      "Integrity": "2/BTSn6kh6YUALRsKTSZZBucz0hVZ36BjK0TH6Rf5X0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\moment1-1.bundle.scp.css"
@@ -1214,12 +1214,12 @@
       "OriginalItemSpec": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\wp0xomaggf-b7pzyycl26.gz",
+      "Identity": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\wp0xomaggf-5leepyzywk.gz",
       "SourceId": "moment1-1",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/moment1-1",
-      "RelativePath": "moment1-1#[.{fingerprint=b7pzyycl26}]?.styles.css.gz",
+      "RelativePath": "moment1-1#[.{fingerprint=5leepyzywk}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1228,8 +1228,8 @@
       "RelatedAsset": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\moment1-1.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "oihmdxiq0j",
-      "Integrity": "MPPpw72PTYdXW3rxRwnhSnTcXXnyfUuYC07ZNz9yHWs=",
+      "Fingerprint": "froij4amtu",
+      "Integrity": "2/BTSn6kh6YUALRsKTSZZBucz0hVZ36BjK0TH6Rf5X0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\moment1-1.styles.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "b7pzyycl26",
-      "Integrity": "V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM=",
+      "Fingerprint": "5leepyzywk",
+      "Integrity": "p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\moment1-1.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "b7pzyycl26",
-      "Integrity": "V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM=",
+      "Fingerprint": "5leepyzywk",
+      "Integrity": "p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\moment1-1.bundle.scp.css"
@@ -21389,13 +21389,13 @@
       ]
     },
     {
-      "Route": "moment1-1.b7pzyycl26.bundle.scp.css",
-      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\6jl1qd6rtc-b7pzyycl26.gz",
+      "Route": "moment1-1.5leepyzywk.bundle.scp.css",
+      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\6jl1qd6rtc-5leepyzywk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001779359431"
+          "Quality": "0.001923076923"
         }
       ],
       "ResponseHeaders": [
@@ -21405,15 +21405,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "561"
+          "Value": "519"
         },
         {
           "Name": "ETag",
-          "Value": "\"MPPpw72PTYdXW3rxRwnhSnTcXXnyfUuYC07ZNz9yHWs=\""
+          "Value": "\"2/BTSn6kh6YUALRsKTSZZBucz0hVZ36BjK0TH6Rf5X0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 07:23:12 GMT"
+          "Value": "Wed, 22 Jan 2025 07:28:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21433,13 +21433,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM=\""
+          "Value": "W/\"p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b7pzyycl26"
+          "Value": "5leepyzywk"
         },
         {
           "Name": "label",
@@ -21447,12 +21447,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM="
+          "Value": "sha256-p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc="
         }
       ]
     },
     {
-      "Route": "moment1-1.b7pzyycl26.bundle.scp.css",
+      "Route": "moment1-1.5leepyzywk.bundle.scp.css",
       "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\moment1-1.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21462,7 +21462,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1104"
+          "Value": "993"
         },
         {
           "Name": "Content-Type",
@@ -21470,11 +21470,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM=\""
+          "Value": "\"p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 07:23:12 GMT"
+          "Value": "Wed, 22 Jan 2025 07:28:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21484,7 +21484,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b7pzyycl26"
+          "Value": "5leepyzywk"
         },
         {
           "Name": "label",
@@ -21492,13 +21492,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM="
+          "Value": "sha256-p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc="
         }
       ]
     },
     {
-      "Route": "moment1-1.b7pzyycl26.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\6jl1qd6rtc-b7pzyycl26.gz",
+      "Route": "moment1-1.5leepyzywk.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\6jl1qd6rtc-5leepyzywk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21507,7 +21507,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "561"
+          "Value": "519"
         },
         {
           "Name": "Content-Type",
@@ -21515,11 +21515,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MPPpw72PTYdXW3rxRwnhSnTcXXnyfUuYC07ZNz9yHWs=\""
+          "Value": "\"2/BTSn6kh6YUALRsKTSZZBucz0hVZ36BjK0TH6Rf5X0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 07:23:12 GMT"
+          "Value": "Wed, 22 Jan 2025 07:28:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21537,7 +21537,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b7pzyycl26"
+          "Value": "5leepyzywk"
         },
         {
           "Name": "label",
@@ -21545,18 +21545,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MPPpw72PTYdXW3rxRwnhSnTcXXnyfUuYC07ZNz9yHWs="
+          "Value": "sha256-2/BTSn6kh6YUALRsKTSZZBucz0hVZ36BjK0TH6Rf5X0="
         }
       ]
     },
     {
-      "Route": "moment1-1.b7pzyycl26.styles.css",
-      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\wp0xomaggf-b7pzyycl26.gz",
+      "Route": "moment1-1.5leepyzywk.styles.css",
+      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\wp0xomaggf-5leepyzywk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001779359431"
+          "Quality": "0.001923076923"
         }
       ],
       "ResponseHeaders": [
@@ -21566,15 +21566,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "561"
+          "Value": "519"
         },
         {
           "Name": "ETag",
-          "Value": "\"MPPpw72PTYdXW3rxRwnhSnTcXXnyfUuYC07ZNz9yHWs=\""
+          "Value": "\"2/BTSn6kh6YUALRsKTSZZBucz0hVZ36BjK0TH6Rf5X0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 07:23:12 GMT"
+          "Value": "Wed, 22 Jan 2025 07:28:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21594,13 +21594,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM=\""
+          "Value": "W/\"p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b7pzyycl26"
+          "Value": "5leepyzywk"
         },
         {
           "Name": "label",
@@ -21608,12 +21608,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM="
+          "Value": "sha256-p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc="
         }
       ]
     },
     {
-      "Route": "moment1-1.b7pzyycl26.styles.css",
+      "Route": "moment1-1.5leepyzywk.styles.css",
       "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\moment1-1.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21623,7 +21623,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1104"
+          "Value": "993"
         },
         {
           "Name": "Content-Type",
@@ -21631,11 +21631,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM=\""
+          "Value": "\"p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 07:23:12 GMT"
+          "Value": "Wed, 22 Jan 2025 07:28:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21645,7 +21645,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b7pzyycl26"
+          "Value": "5leepyzywk"
         },
         {
           "Name": "label",
@@ -21653,13 +21653,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM="
+          "Value": "sha256-p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc="
         }
       ]
     },
     {
-      "Route": "moment1-1.b7pzyycl26.styles.css.gz",
-      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\wp0xomaggf-b7pzyycl26.gz",
+      "Route": "moment1-1.5leepyzywk.styles.css.gz",
+      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\wp0xomaggf-5leepyzywk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21668,7 +21668,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "561"
+          "Value": "519"
         },
         {
           "Name": "Content-Type",
@@ -21676,11 +21676,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MPPpw72PTYdXW3rxRwnhSnTcXXnyfUuYC07ZNz9yHWs=\""
+          "Value": "\"2/BTSn6kh6YUALRsKTSZZBucz0hVZ36BjK0TH6Rf5X0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 07:23:12 GMT"
+          "Value": "Wed, 22 Jan 2025 07:28:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21698,7 +21698,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b7pzyycl26"
+          "Value": "5leepyzywk"
         },
         {
           "Name": "label",
@@ -21706,18 +21706,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MPPpw72PTYdXW3rxRwnhSnTcXXnyfUuYC07ZNz9yHWs="
+          "Value": "sha256-2/BTSn6kh6YUALRsKTSZZBucz0hVZ36BjK0TH6Rf5X0="
         }
       ]
     },
     {
       "Route": "moment1-1.bundle.scp.css",
-      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\6jl1qd6rtc-b7pzyycl26.gz",
+      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\6jl1qd6rtc-5leepyzywk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001779359431"
+          "Quality": "0.001923076923"
         }
       ],
       "ResponseHeaders": [
@@ -21727,15 +21727,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "561"
+          "Value": "519"
         },
         {
           "Name": "ETag",
-          "Value": "\"MPPpw72PTYdXW3rxRwnhSnTcXXnyfUuYC07ZNz9yHWs=\""
+          "Value": "\"2/BTSn6kh6YUALRsKTSZZBucz0hVZ36BjK0TH6Rf5X0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 07:23:12 GMT"
+          "Value": "Wed, 22 Jan 2025 07:28:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21755,13 +21755,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM=\""
+          "Value": "W/\"p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM="
+          "Value": "sha256-p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc="
         }
       ]
     },
@@ -21776,7 +21776,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1104"
+          "Value": "993"
         },
         {
           "Name": "Content-Type",
@@ -21784,11 +21784,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM=\""
+          "Value": "\"p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 07:23:12 GMT"
+          "Value": "Wed, 22 Jan 2025 07:28:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21798,13 +21798,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM="
+          "Value": "sha256-p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc="
         }
       ]
     },
     {
       "Route": "moment1-1.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\6jl1qd6rtc-b7pzyycl26.gz",
+      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\6jl1qd6rtc-5leepyzywk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21813,7 +21813,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "561"
+          "Value": "519"
         },
         {
           "Name": "Content-Type",
@@ -21821,11 +21821,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MPPpw72PTYdXW3rxRwnhSnTcXXnyfUuYC07ZNz9yHWs=\""
+          "Value": "\"2/BTSn6kh6YUALRsKTSZZBucz0hVZ36BjK0TH6Rf5X0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 07:23:12 GMT"
+          "Value": "Wed, 22 Jan 2025 07:28:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21843,18 +21843,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MPPpw72PTYdXW3rxRwnhSnTcXXnyfUuYC07ZNz9yHWs="
+          "Value": "sha256-2/BTSn6kh6YUALRsKTSZZBucz0hVZ36BjK0TH6Rf5X0="
         }
       ]
     },
     {
       "Route": "moment1-1.styles.css",
-      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\wp0xomaggf-b7pzyycl26.gz",
+      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\wp0xomaggf-5leepyzywk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001779359431"
+          "Quality": "0.001923076923"
         }
       ],
       "ResponseHeaders": [
@@ -21864,15 +21864,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "561"
+          "Value": "519"
         },
         {
           "Name": "ETag",
-          "Value": "\"MPPpw72PTYdXW3rxRwnhSnTcXXnyfUuYC07ZNz9yHWs=\""
+          "Value": "\"2/BTSn6kh6YUALRsKTSZZBucz0hVZ36BjK0TH6Rf5X0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 07:23:12 GMT"
+          "Value": "Wed, 22 Jan 2025 07:28:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21892,13 +21892,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM=\""
+          "Value": "W/\"p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM="
+          "Value": "sha256-p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc="
         }
       ]
     },
@@ -21913,7 +21913,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1104"
+          "Value": "993"
         },
         {
           "Name": "Content-Type",
@@ -21921,11 +21921,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM=\""
+          "Value": "\"p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 07:23:12 GMT"
+          "Value": "Wed, 22 Jan 2025 07:28:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21935,13 +21935,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V5QEF1i8rrousQNhifCzgLIxchxn5AZHCdl2gHFTsWM="
+          "Value": "sha256-p42naTQrWGqTyZrMiCeNauqmEp5hkgrMt7x/9K3g2Vc="
         }
       ]
     },
     {
       "Route": "moment1-1.styles.css.gz",
-      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\wp0xomaggf-b7pzyycl26.gz",
+      "AssetFile": "C:\\Users\\marku\\Desktop\\webbutveckling-ht2024\\dotnet_kurs\\moment1-1\\obj\\Debug\\net9.0\\compressed\\wp0xomaggf-5leepyzywk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21950,7 +21950,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "561"
+          "Value": "519"
         },
         {
           "Name": "Content-Type",
@@ -21958,11 +21958,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MPPpw72PTYdXW3rxRwnhSnTcXXnyfUuYC07ZNz9yHWs=\""
+          "Value": "\"2/BTSn6kh6YUALRsKTSZZBucz0hVZ36BjK0TH6Rf5X0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 07:23:12 GMT"
+          "Value": "Wed, 22 Jan 2025 07:28:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21980,7 +21980,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MPPpw72PTYdXW3rxRwnhSnTcXXnyfUuYC07ZNz9yHWs="
+          "Value": "sha256-2/BTSn6kh6YUALRsKTSZZBucz0hVZ36BjK0TH6Rf5X0="
         }
       ]
     }
