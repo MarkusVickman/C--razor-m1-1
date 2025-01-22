@@ -1,0 +1,64 @@
+﻿@{
+    var date = DateTime.Now.ToShortDateString();
+
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - moment1_1</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/moment1_1.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+    <div class="page-container">
+        <div class="page-container-without-footer">
+            <header>
+                <div class="logo-container">
+                    <a class="navbar-brand" asp-area="" asp-page="/Index"><img src="~/logo.png"
+                            alt="Logotyp av texten MV" class="logo"></a>
+                </div>
+                <div>
+                    <p id="date" class="date_div">Dagens datum är: @date</p>
+                </div>
+                <button id="menu-open-btn">Meny</button>
+            </header>
+            <div class="flex">
+                <nav id="navbar">
+                    <div class="nav-and-button">
+                        <button id="menu-close">Stäng Meny</button>
+                        <ul class="">
+                            <li class="">
+                                <a class="nav-link" asp-area="" asp-page="/Index">Start</a>
+                            </li>
+                            <li class="">
+                                <a class="nav-link" asp-area="" asp-page="/Razor">Razor</a>
+                            </li>
+                            <li class="">
+                                <a class="nav-link" asp-area="" asp-page="/About">Om sidan</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+                <main role="main" class="main">
+                    @RenderBody()
+                </main>
+
+            </div>
+        </div>
+        <footer class="footer">
+            <p>Av Markus Vickman - Kontakta mig via e-post - <a
+                    href="mailto:mavi2302@student.miun.se">mavi2302@student.miun.se</a></p>
+        </footer>
+    </div>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>
