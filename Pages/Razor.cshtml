@@ -1,11 +1,12 @@
 ﻿@page
 @model MyApp.Namespace.RazorModel
 @{
+    //Lagrar två datumobject med olika information
     var date = DateTime.Today;
-
     var dateTime = DateTime.Now;
-
     var dayName = "";
+
+    //If/else-sats som skriver ut olika meddelanden beroende av dagens dagnamn.
     if (date.DayOfWeek == DayOfWeek.Friday)
     {
         dayName = "Idag är det fredag!";
@@ -15,9 +16,8 @@
         dayName = "Idag är det inte fredag!";
     }
 
+    //En sträng-array med kurser
     string[] courses = {"DT057G, Webbutveckling I", "DT084G, Introduktion till programmering i JavaScript", "DT200G, Grafisk teknik för webb", "DT068G, Webbanvändbarhet", "DT003G, Databaser", "DT211G,	Frontend-baserad webbutveckling", "DT207G, Backend-baserad webbutveckling", "DT208G, Programmering i TypeScript", "IK060G, Projektledning", "DT071G, Programmering i C#.NET", "DT193G, Fullstack-utveckling med ramverk", "DT209G, Webbutveckling för WordPress", "DT191G, Webbutveckling med .NET", "DT210G, Fördjupad frontend-utveckling", "DT140G, Självständigt arbete"};
-
-
 
 }
 
@@ -31,6 +31,8 @@
     
     <h2>Kurser jag läst:</h2>
     <ul>
+        
+    <!-- loopar igenom och skriver ut arrayen med Kurser som en lista -->
     @{
         foreach (string i in courses) {
             <li>@i</li>

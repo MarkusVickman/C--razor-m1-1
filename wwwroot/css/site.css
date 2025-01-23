@@ -40,7 +40,6 @@ main li {
 
 }
 
-
 #menu-open-btn {
   display: none;
   position: absolute;
@@ -68,7 +67,6 @@ main li {
   padding: 15% 5% 5% 5%;
   margin-top: 200px;
 }
-
 
 nav li,
 #menu-close {
@@ -129,7 +127,6 @@ header {
   position: absolute;
 }
 
-
 .logo:hover {
   box-shadow: rgba(255, 255, 255, 0.3) 0px 0px 38px, rgba(255, 255, 255, 0.22) 0px 0px 12px;
 }
@@ -141,21 +138,11 @@ main {
   margin-top: 200px;
 }
 
-
 .flex {
   display: flex;
   height: 100vh;
   margin-top: -200px; 
 }
-
-/*.navbar-toggle {
-  padding: 5px 10px 5px 10px;
-  background-color: white;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-  border-radius: 5px;
-  border-style: none;
-  margin-top: 20px;
-}*/
 
 #menu-close:hover,
 nav li:hover {
@@ -179,7 +166,6 @@ footer p {
 footer a {
   color: white;
 }
-
 
 /* Styling för mellanstora skärmar */
 @media (min-width: 600px) and (max-width: 1300px) {
@@ -229,6 +215,4 @@ footer a {
   footer p {
     padding-top: 5px;
   }
-
-
 }

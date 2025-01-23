@@ -1,17 +1,19 @@
 ﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 // for details on configuring this project to bundle and minify static web assets.
 
-// Write your JavaScript code.
+// Deklarerar knappar och meny-element
 const menuButton = document.getElementById("menu-open-btn");
 const menuButtonClose = document.getElementById("menu-close");
 const mainNav = document.getElementById("navbar");
 
+//händelselyssnare för att ändra styling vid klick på menyknapp öppna
 menuButton.addEventListener("click", function (e){
     mainNav.style.display = "block";
     menuButton.style = "display:none";
     menuButtonClose.style = "display:block";
 })
 
+//händelselyssnare för att ändra styling vid klick på menyknapp stäng
 menuButtonClose.addEventListener("click", function (e){
     mainNav.style.display = "none";
     menuButton.style = "display:block";
